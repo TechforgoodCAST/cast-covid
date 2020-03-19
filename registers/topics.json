@@ -4,45 +4,58 @@
 	version: '1.0',
 	topics: [
 		{
-			name: 'Video calling'
+			id: 1,
+			name: 'Uncategorised',
+			description: "For things you're not sure how to categorise, but still want in Airtable"
 		},
 		{
+			id: 2,
 			name: 'Data protection'
 		},
 		{
+			id: 3,
 			name: 'Online safety'
 		},
 		{
+			id: 4,
 			name: 'User testing'
 		},
 		{
+			id: 5,
 			name: 'Training volunteers'
 		},
 		{
+			id: 6,
 			name: 'Managing a team'
 		},
 		{
+			id: 7,
 			name: 'Funding'
 		},
 		{
+			id: 8,
 			name: 'Self-organising'
 		},
 		{
+			id: 9,
 			name: 'IT support'
 		},
 		{
+			id: 10,
 			name: 'Online communities'
 		},
 		{
+			id: 11,
 			name: 'Team self care'
 		},
 		{
+			id: 12,
 			name: 'Web development',
 			support_url: 'https://docs.google.com/document/d/16ucdcRVrizF3WjFqhBy-yrA_vtEVvXLBUG7cp7eDGls/edit#heading=h.p4otpwofe1lm'
 		},
 		{
-			name: 'Uncategorised',
-			description: "For things you're not sure how to categorise, but still want in Airtable"
+			id: 13,
+			name: 'Video calling'
 		}
 	]
 }
