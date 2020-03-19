@@ -1,0 +1,26 @@
+{
+ 	"$schema": "http://json-schema.org/draft-07/schema#",
+ 	"$id": "https://cast-covid.herokuapp.com/registers/topics.schema.json",
+ 	"title": "Topic",
+ 	"description": "A topic of common charity needs in adapting to COVID",
+ 	"type": "object",
+ 	"properties": {
+		"id": {
+			"description": "The unique identifier for a topic",
+			"type": "integer"
+		},
+		"name": {
+			"description": "The topic name, should be short and unique",
+			"type": "string"
+		},
+		"description": {
+			"description": "A short description of the topic",
+			"type": "string"
+		},
+		"support_url": {
+			"description": "A URL at which support for this topic can be found",
+			"type": "string"
+		}
+	},
+	"required": [ "id", "name" ]
+}
