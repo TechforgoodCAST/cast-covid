@@ -1,0 +1,48 @@
+{
+	name: 'Charity need topics',
+	description: 'A list of topics of common charity needs in adapting to COVID',
+	version: '1.0',
+	topics: [
+		{
+			name: 'Video calling'
+		},
+		{
+			name: 'Data protection'
+		},
+		{
+			name: 'Online safety'
+		},
+		{
+			name: 'User testing'
+		},
+		{
+			name: 'Training volunteers'
+		},
+		{
+			name: 'Managing a team'
+		},
+		{
+			name: 'Funding'
+		},
+		{
+			name: 'Self-organising'
+		},
+		{
+			name: 'IT support'
+		},
+		{
+			name: 'Online communities'
+		},
+		{
+			name: 'Team self care'
+		},
+		{
+			name: 'Web development',
+			support_url: 'https://docs.google.com/document/d/16ucdcRVrizF3WjFqhBy-yrA_vtEVvXLBUG7cp7eDGls/edit#heading=h.p4otpwofe1lm'
+		},
+		{
+			name: 'Uncategorised',
+			description: "For things you're not sure how to categorise, but still want in Airtable"
+		}
+	]
+}

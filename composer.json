@@ -1,0 +1,10 @@
+{
+    "name": "techforgoodcast/cast-covid",
+    "description": "Repository for COVID response data",
+    "authors": [
+        {
+          "name": "Joseph Dudley",
+          "email": "joseph@wearecast.org.uk"
+        }
+    ]
+}
