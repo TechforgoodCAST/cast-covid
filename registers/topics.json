@@ -6,7 +6,7 @@
 		{
 			"id": 1,
 			"name": "Uncategorised",
-			description: "For things you're not sure how to categorise, but still want in Airtable"
+			"description": "For things you're not sure how to categorise, but still want in Airtable"
 		},
 		{
 			"id": 2,
@@ -51,7 +51,7 @@
 		{
 			"id": 12,
 			"name": "Web development",
-			support_url: "https://docs.google.com/document/d/16ucdcRVrizF3WjFqhBy-yrA_vtEVvXLBUG7cp7eDGls/edit#heading=h.p4otpwofe1lm"
+			"support_url": "https://docs.google.com/document/d/16ucdcRVrizF3WjFqhBy-yrA_vtEVvXLBUG7cp7eDGls/edit#heading=h.p4otpwofe1lm"
 		},
 		{
 			"id": 13,
